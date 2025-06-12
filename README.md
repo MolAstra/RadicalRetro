@@ -49,5 +49,14 @@ bash predict-backward.sh
 If you find this work useful, please cite it as follows:
 
 ```bibtex
-
+@article{xuRadicalRetroDeepLearningBased2025,
+  title = {{{RadicalRetro}}: {{A Deep Learning-Based Retrosynthesis Model}} for {{Radical Reactions}}},
+  author = {Xu, Jiangcheng and Dong, Jun and Du, Kui and Liu, Wenwen and Peng, Jiehai and Yu, Wenbo},
+  date = {2025},
+  journaltitle = {Processes},
+  volume = {13},
+  number = {6},
+  issn = {2227-9717},
+  doi = {10.3390/pr13061792},
+  keywords = {deep learning,drug synthesis,radical reactions,retrosynthesis}
 ```
